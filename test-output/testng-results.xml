@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="18868" started-at="2019-06-02T18:49:53Z" finished-at="2019-06-02T18:50:12Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="18868" started-at="2019-06-02T18:49:53Z" finished-at="2019-06-02T18:50:12Z">
+      <class name="com.NagpSelenium.framework.testcases.BusHireTest">
+        <test-method status="PASS" signature="startReport()[pri:0, instance:com.NagpSelenium.framework.testcases.BusHireTest@7d9d1a19]" name="startReport" is-config="true" duration-ms="187" started-at="2019-06-02T18:49:53Z" finished-at="2019-06-02T18:49:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startReport -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.NagpSelenium.framework.testcases.BusHireTest@7d9d1a19]" name="setUp" is-config="true" duration-ms="9114" started-at="2019-06-02T18:49:53Z" finished-at="2019-06-02T18:50:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.NagpSelenium.framework.testcases.BusHireTest@7d9d1a19]" name="beforeMethod" is-config="true" duration-ms="6" started-at="2019-06-02T18:50:02Z" finished-at="2019-06-02T18:50:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.NagpSelenium.framework.testcases.BusHireTest.verifyBusHirePageTitle()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="verifyBusHirePageTitle()[pri:0, instance:com.NagpSelenium.framework.testcases.BusHireTest@7d9d1a19]" name="verifyBusHirePageTitle" duration-ms="2090" started-at="2019-06-02T18:50:02Z" finished-at="2019-06-02T18:50:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyBusHirePageTitle -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.NagpSelenium.framework.testcases.BusHireTest@7d9d1a19]" name="getResult" is-config="true" duration-ms="2" started-at="2019-06-02T18:50:04Z" finished-at="2019-06-02T18:50:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyBusHirePageTitle status=SUCCESS method=BusHireTest.verifyBusHirePageTitle()[pri:0, instance:com.NagpSelenium.framework.testcases.BusHireTest@7d9d1a19] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.NagpSelenium.framework.testcases.BusHireTest@7d9d1a19]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2019-06-02T18:50:04Z" finished-at="2019-06-02T18:50:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.NagpSelenium.framework.testcases.BusHireTest.testSearchFunctionalityForBusHire()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="testSearchFunctionalityForBusHire()[pri:1, instance:com.NagpSelenium.framework.testcases.BusHireTest@7d9d1a19]" name="testSearchFunctionalityForBusHire" duration-ms="6887" started-at="2019-06-02T18:50:04Z" finished-at="2019-06-02T18:50:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSearchFunctionalityForBusHire -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.NagpSelenium.framework.testcases.BusHireTest@7d9d1a19]" name="tearDown" is-config="true" duration-ms="743" started-at="2019-06-02T18:50:11Z" finished-at="2019-06-02T18:50:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.NagpSelenium.framework.testcases.BusHireTest@7d9d1a19]" name="getResult" is-config="true" duration-ms="0" started-at="2019-06-02T18:50:11Z" finished-at="2019-06-02T18:50:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testSearchFunctionalityForBusHire status=SUCCESS method=BusHireTest.testSearchFunctionalityForBusHire()[pri:1, instance:com.NagpSelenium.framework.testcases.BusHireTest@7d9d1a19] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.NagpSelenium.framework.testcases.BusHireTest@7d9d1a19]" name="afterSuite" is-config="true" duration-ms="364" started-at="2019-06-02T18:50:12Z" finished-at="2019-06-02T18:50:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.NagpSelenium.framework.testcases.BusHireTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
