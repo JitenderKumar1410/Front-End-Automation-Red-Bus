@@ -1,8 +1,0 @@
-com\NagpSelenium\framework\base\BaseClass.class
-com\NagpSelenium\framework\util\CommonFunctionUtil.class
-com\NagpSelenium\framework\pages\AboutWebsiteTestPage.class
-com\NagpSelenium\framework\pages\BusHirePage.class
-com\NagpSelenium\framework\pages\HomePage.class
-com\NagpSelenium\framework\pages\BusTicketsPage.class
-com\NagpSelenium\framework\util\UtilFunctions.class
-com\NagpSelenium\framework\pages\HotelPage.class
